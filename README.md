@@ -1,6 +1,6 @@
 # Walk-Forward Analysis Toolbox for MATLAB
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yY2NXcE0X-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![WFAToolbox Overview Video](https://wfatoolbox.com/wp-content/uploads/2021/04/wfatoolbox-youtube.jpg)](http://www.youtube.com/watch?v=yY2NXcE0X-c "WFAToolbox Overview")
 
 WFAToolbox is a MATLAB App for walk-forward analysis (backtesting) of custom algorithmic trading strategies
 
